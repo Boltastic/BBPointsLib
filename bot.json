@@ -1,1 +1,7 @@
+{
+  "name": "BB Points Library",
+  "version": "1.0",
+  "description": "A custom library for handling BB Points transactions in Bots.Business.",
+  "author": "Boltastic"
+}
 
